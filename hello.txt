@@ -1,6 +1,0 @@
-print ("hello wirld")
-<<<<<<< HEAD
-var j = опроепропропарапраырп
-=======
-var j = 5парапвры
->>>>>>> master
